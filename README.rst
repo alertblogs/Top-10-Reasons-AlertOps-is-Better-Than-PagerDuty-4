@@ -1,40 +1,32 @@
-AlertOps Expert Guidance
+Top 10 Reasons AlertOps is Better Than PagerDuty: #4
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Today’s IT teams require analytics. With the right analytics tools in place, IT teams can discover patterns and trends in massive amounts of structured and unstructured data. Then, IT teams can use these insights to implement meaningful business changes, leading to reduced operating costs and increased productivity and efficiency.  
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+AlertOps features analytics that you simply won’t find with PagerDuty and other incident management systems. Our analytics are designed to increase IT visibility and accountability so you can evaluate contractors, adjust staffing levels and budget better than ever before.  
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Since AlertOps tracks all interactions, you can document key performance indicators (KPIs) and adherence to service-level agreements (SLAs). AlertOps includes multiple report templates, as well as built-in response and acknowledgement capabilities to track the status of open and closed notifications. Our reports also can be used to compare performance against the mean or between users or groups. You can even extract additional business intelligence from the AlertOps database for deeper analysis. That way, you always know what’s happening with your IT operations.  
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps provides the following IT reports:  
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+     Alert Trend: Enables IT teams to track the number of incidents (alerts) created and resolved, SLA performance, average time to resolution and SLA violation days. An Alert Trend report can be run weekly, monthly, quarterly or yearly, and you can filter each report based on priority and/or topic.  
+    Alert Summary: Provides a snapshot view of an IT team’s performance over the course of a day or week. An Alert Summary report enables you to measure SLA performance, view performance based on topic and priority and examine assignment distribution among team members. 
+    Alert Assignment: Helps IT team members manage current incidents. With an Alert Assignment report, you can see how many incidents (alerts) are assigned to each team member, monitor SLA performance by person and filter alerts by priority.  
+    Open Alerts: Highlights open incidents. An Open Alerts report includes dashboards that boast comprehensive visualizations, ensuring you should have no trouble managing open incidents.  
+    Top 5 P1 Alerts: Shows the top five open alerts. The Top 5 P1 Alerts report includes a graph that shows the top five open alerts, ranked by hours and number of hours open. Also, you can click on any of the five open alerts to obtain additional details. 
+    SLA Violation in Days: Groups alerts by SLA violation days. Like the Top 5 P1 Alerts report, the SLA Violation in Days report enables you to click on individual alerts in each bucket to review additional details.  
+    Top 5 Assignees: Displays the top five incident (alert) assignees. Moreover, the Top 5 Assignees report allows you to view each assignee’s open alerts. 
+    Open Count by Priority: Offers insights into all open alerts based on priority.  
+    Open Count by Status: Highlights all open alerts based on status.  
+    Top 5 Topics: Shows a top-five list of topics.  
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+AlertOps analytics empower IT teams to take a data-driven approach to their day-to-day operations. As a result, IT teams can gain the insights they need to make more informed decisions, faster than ever before.  
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+To find out more about AlertOps and our incident management system’s analytics, please call us today at (844) 292-8255 or via email at sales@alertops.com.   
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-better-than-pagerduty-4/
 
 Read more:
 ====
